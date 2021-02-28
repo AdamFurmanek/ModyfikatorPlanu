@@ -1,0 +1,9 @@
+C:\Dev\Microsoft Visual Studio\workspace\ModyfikatorPlanu\bin\Debug\ModyfikatorPlanu.exe.config
+C:\Dev\Microsoft Visual Studio\workspace\ModyfikatorPlanu\bin\Debug\ModyfikatorPlanu.exe
+C:\Dev\Microsoft Visual Studio\workspace\ModyfikatorPlanu\bin\Debug\ModyfikatorPlanu.pdb
+C:\Dev\Microsoft Visual Studio\workspace\ModyfikatorPlanu\obj\Debug\ModyfikatorPlanu.csprojAssemblyReference.cache
+C:\Dev\Microsoft Visual Studio\workspace\ModyfikatorPlanu\obj\Debug\ModyfikatorPlanu.Properties.Resources.resources
+C:\Dev\Microsoft Visual Studio\workspace\ModyfikatorPlanu\obj\Debug\ModyfikatorPlanu.csproj.GenerateResource.cache
+C:\Dev\Microsoft Visual Studio\workspace\ModyfikatorPlanu\obj\Debug\ModyfikatorPlanu.csproj.CoreCompileInputs.cache
+C:\Dev\Microsoft Visual Studio\workspace\ModyfikatorPlanu\obj\Debug\ModyfikatorPlanu.exe
+C:\Dev\Microsoft Visual Studio\workspace\ModyfikatorPlanu\obj\Debug\ModyfikatorPlanu.pdb
